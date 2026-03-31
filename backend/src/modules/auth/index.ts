@@ -1,2 +1,1 @@
-// Placeholder for auth module
-export {};
+export { default as authRouter } from './auth.router';
